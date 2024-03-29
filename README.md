@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Solidity, Web3.**
 
-- 📫 How to reach me **miguelbrahen@gmail.com.**
+- 📫 Reach me at **miguelbrahen@gmail.com.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
