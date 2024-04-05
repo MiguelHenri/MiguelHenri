@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Multi-Robot inspection systems.**
 
-- 🌱 I’m currently learning **HTML, CSS, JS.**
+- 🌱 I’m currently learning **HTML, CSS, JS, SQL.**
 
 - 💬 Ask me about **Solidity, Web3.**
 
