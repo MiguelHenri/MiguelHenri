@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Dev Practice and SAA**
 
-- 🌱 I’m currently learning **Node, React, MongoDB**
+- 🌱 I’m currently learning **Node, Flask, MongoDB**
 
 - 💬 Ask me about **Solidity, Web3**
 
