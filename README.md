@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Deploying SAA**
 
-- 🌱 I’m currently learning **Website Deployment**
+- 🌱 I’m currently learning **Website Deployment, Django, Redux**
 
 - 💬 Ask me about **Solidity, Web3, Web-Dev**
 
