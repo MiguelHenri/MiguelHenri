@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Maintaining SAA**
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Swift, SwiftUI, UIKit**
 
 - 💬 Ask me about **Solidity, Web3, Web-Dev**
 
